@@ -1,0 +1,24 @@
+.box {
+    display: inline-block;
+    padding: 10px;
+}
+
+.container {
+    overflow: auto;
+}
+
+.right-aligned {
+    float: left;
+    text-align: right;
+    width: 50%;
+}
+
+.left-aligned {
+    float: right;
+    text-align: left;
+    width: 50%;
+}
+
+.send {
+    padding: 1px 5px;
+}
